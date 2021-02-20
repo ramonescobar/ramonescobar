@@ -1,6 +1,6 @@
 ### Hi there 👋 :octocat: 
-- 🔭 I’m currently working on Tigo El Salvador(https://www.tigo.com.sv/) as Research Specialist
-- 🌱 I’m currently learning more Data Science
+- 🔭 I’m currently working @ [Tigo El Salvador](https://www.tigo.com.sv/) as Research Specialist
+- 🌱 I’m currently learning more Data Science 
 
 <!--
 **ramonescobar/ramonescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
