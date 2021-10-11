@@ -6,7 +6,9 @@ I am Ramón, a Salvadoran Data Scientist and marketing researcher who love to re
 
 [Migration Dashboard (with D. Cornejo & G. Reyes)](https://migracion-latam-uc2018.herokuapp.com/)
 
-#### My work Experience 
+## Experiences
+
+### Working :computer:
 
 ![](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/SV%402x.png)
 
@@ -19,7 +21,7 @@ I am Ramón, a Salvadoran Data Scientist and marketing researcher who love to re
 2017 | **[SISCA-OCADES](https://www.sisca.int/ocades)**: Internship on Social indicators database compiler
 
 
-#### My academic Experience 
+### Academics :mortar_board:
 
 ![](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GT%402x.png)
 ![](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/SV%402x.png)
