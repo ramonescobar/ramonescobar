@@ -19,12 +19,15 @@ I am Ramón, a Salvadoran Data Scietist and marketing researcher who love to rea
 
 #### My academic Experience 
 
+![](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GT%402x.png)
 ![](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/SV%402x.png)
 ![](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/CL%402x.png)
-![](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GT%402x.png)
+
 
 2022 - M.Sc. Data Science at Universidad Galileo (Guatemala)
+
 2019 - B.S. Economics and Businesses at ESEN (El Salvador)
+
 2018 - Student Exchange Program Commercial Engeneering at Ponticia Universidad Católica de Chile (Chile)
 
 
