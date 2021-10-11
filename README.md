@@ -1,9 +1,10 @@
-### Hi there 👋 :octocat: 
+## Hi there 👋 :octocat: 
 
 I am Ramón, a Salvadoran Data Scientist and marketing researcher who love to read fictional history and play Fortnite!
 
-Checkout 
+## Check my projects 🚀
 
+[Migration Dashboard (with D. Cornejo & G. Reyes)](https://migracion-latam-uc2018.herokuapp.com/)
 
 #### My work Experience 
 
@@ -25,11 +26,11 @@ Checkout
 ![](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/CL%402x.png)
 
 
-2022 - M.Sc. Data Science at Universidad Galileo (Guatemala)
+2022 | M.Sc. Data Science at Universidad Galileo (Guatemala)
 
-2019 - B.S. Economics and Businesses at ESEN (El Salvador)
+2019 | B.S. Economics and Businesses at ESEN (El Salvador)
 
-2018 - Student Exchange Program Commercial Engeneering at Ponticia Universidad Católica de Chile (Chile)
+2018 | Student Exchange Program Commercial Engeneering at Ponticia Universidad Católica de Chile (Chile)
 
 
 <!--
