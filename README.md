@@ -1,8 +1,9 @@
 ### Hi there 👋 :octocat: 
 
-I am Ramón, a Salvadoran Data Scietist and marketing researcher who love to read fictional history and play Fortnite!
+I am Ramón, a Salvadoran Data Scientist and marketing researcher who love to read fictional history and play Fortnite!
 
-🔭 I’m currently working @ [Tigo El Salvador](https://www.tigo.com.sv/) as Research Specialist, 🌱 Also i'm studying a master in science on Data Science @ Universidad Galileo 
+Checkout 
+
 
 #### My work Experience 
 
