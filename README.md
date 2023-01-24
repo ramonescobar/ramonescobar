@@ -12,6 +12,7 @@ I am Ramón, a Salvadoran Data Scientist and marketing researcher who love to re
 
 ![](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/SV%402x.png)
 
+* 2023 | **[Banco Cuscatlán](https://www.bancocuscatlan.com/)**: Data Scientist
 * 2020 | **[Tigo El Salvador](https://www.tigo.com.sv/)**: Digital-Quantitative Research Specialist
 * 2019 | **[Hugo App](https://hugoapp.com/)**: Intern as Regional business intelligence Analyst
 * 2019 | **[ESEN](https://www.esen.edu.sv/)**:  Doctoral research Assistant
